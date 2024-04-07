@@ -1,6 +1,5 @@
 Baixe no seu banco a fatura ou extrato em csv.
 As colunas devem ser (padrao nubank): date,category,title,amountdate,category,title,amount
-![image](https://github.com/NatanBudny/financeiropessoal/assets/35115444/942e48cd-2d84-4b64-b574-12510a4b94aa)
 
 Insira o csv na mesma pasta que o script (insira o AAAA-MM no nome do arquivo)
 ![image](https://github.com/NatanBudny/financeiropessoal/assets/35115444/c196483b-a4f6-4823-a72d-55068cbf9ef2)
